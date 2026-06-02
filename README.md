@@ -24,7 +24,7 @@ Desenvolvimento de um dashboard no Power BI para análise de faturamento, margem
 - Variação da margem ao longo dos anos
 
 ## 📁 Arquivos
-- `dashboard.pbix`: arquivo principal do projeto
+- `Dashboard de Vendas, Custo, Margem de Lucro e KPI.pbix`: arquivo principal do projeto
 
 ## ▶️ Como visualizar o projeto
 1. Baixe o arquivo `Dashboard de Vendas, Custo, Margem de Lucro e KPI.pbix`
