@@ -25,7 +25,6 @@ Desenvolvimento de um dashboard no Power BI para análise de faturamento, margem
 
 ## 📁 Arquivos
 - `dashboard.pbix`: arquivo principal do projeto
-- `dados.xlsx`: base de dados utilizada
 
 ## ▶️ Como visualizar o projeto
 1. Baixe o arquivo `Dashboard de Vendas, Custo, Margem de Lucro e KPI.pbix`
